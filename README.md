@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vmandlesar74830" target="blank"><img src="https://img.shields.io/twitter/follow/vmandlesar74830?logo=twitter&style=for-the-badge" alt="vmandlesar74830" /></a> </p>
 
-- 🔭 I’m currently working on [Automate application by using CI/CD you can checkout my work on my gitlab account](https://gitlab.com/Vishnu-0609)
+- 🔭 I’m currently working on Automate application by using CI/CD you can checkout my work on my [gitlab](https://gitlab.com/Vishnu-0609)
 
 - 🌱 I’m currently learning **DevOps Engineering.**
 
