@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vishnu Mandlesara</h1>
 <h3 align="center">I'm an enthusiastic Web2.0 Developer and DevOps Engieer from India.</h3>
-<img align="center" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3N3prczN3Nmsyb25vcGpoOHdkaTk5cm9oanQ2b3RiNWdrcGw3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif">
+<img align="center" style="background-color: #cccccc;" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3N3prczN3Nmsyb25vcGpoOHdkaTk5cm9oanQ2b3RiNWdrcGw3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif">
 <div style="margin:10 10"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-0609&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-0609" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vmandlesar74830" target="blank"><img src="https://img.shields.io/twitter/follow/vmandlesar74830?logo=twitter&style=for-the-badge" alt="vmandlesar74830" /></a> </p>
 
-- 🔭 I’m currently working on Automate application by using CI/CD you can checkout my work on my [gitlab](https://gitlab.com/Vishnu-0609)
+- 🔭 I’m currently working on Automate application by using CI/CD you can checkout my work on my [GitLab](https://gitlab.com/Vishnu-0609)
 
 - 🌱 I’m currently learning **DevOps Engineering.**
 
