@@ -31,9 +31,6 @@ I'm a **Cybersecurity postgraduate student** at NFSU with hands-on experience in
 <a href="https://twitter.com/vmandlesar74830" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://hashnode.com/@techwithvishnu" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
 <a href="mailto:mandlesaravishnu06092004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -45,9 +42,9 @@ I'm a **Cybersecurity postgraduate student** at NFSU with hands-on experience in
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Explainable Threat Intel Platform](https://github.com/vishnu-0609/etip)** | Behavior-based correlation for C2/malware detection with MITRE ATT&CK mapping | Python, ELK, KQL, MITRE ATT&CK |
-| **[NTFS File Recovery Tool](https://github.com/vishnu-0609/ntfs-recovery)** | DFIR tool for file carving, MFT analysis, and disk wipe detection | Python, Tkinter, Pytsk3 |
-| **[LogiBrisk Lite](https://github.com/vishnu-0609/logibrisk)** | Multi-tenant SaaS logistics platform with security best practices | Node.js, Express, MySQL, Docker |
+| **[Explainable Threat Intel Platform]([https://github.com/vishnu-0609/etip](https://explainable-threat-intell.vercel.app/))** | Behavior-based correlation for C2/malware detection with MITRE ATT&CK mapping | Python, ELK, KQL, MITRE ATT&CK |
+| **[NTFS File Recovery Tool]([https://github.com/vishnu-0609/ntfs-recovery](https://github.com/biku34/ISEA-Team-QUAD/tree/main/PS3))** | DFIR tool for file carving, MFT analysis, and disk wipe detection | Python, Tkinter, Pytsk3 |
+| **[LogiBrisk Lite](https://lite.logibrisk.com/login)** | Multi-tenant SaaS logistics platform with security best practices | Node.js, Express, MySQL, Docker |
 
 ---
 
@@ -105,21 +102,10 @@ Linux (Ubuntu/CentOS) | Wireshark | Burp Suite | Nmap | Metasploit
 
 ---
 
-### 📝 Latest Blog Posts (Hashnode)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *Writing about SOC workflows, detection engineering, and AI in cybersecurity*
-
----
-
 ### 🚀 What I'm Currently Working On
 
-- 🔬 Building KQL detection rules for lateral movement (MITRE TA0008)
 - 🤖 Experimenting with Isolation Forest for network anomaly detection
 - 📖 Studying for **Certified SOC Analyst (CSA)** certification
-- ✍️ Writing a blog on "Mapping Detection Use Cases to MITRE ATT&CK"
 
 ---
 
@@ -127,12 +113,9 @@ Linux (Ubuntu/CentOS) | Wireshark | Burp Suite | Nmap | Metasploit
 
 - **Email:** mandlesaravishnu06092004@gmail.com
 - **LinkedIn:** [linkedin.com/in/vishnu-mandlesara](https://linkedin.com/in/vishnu-mandlesara)
-- **Resume:** [Download PDF](https://drive.google.com/file/d/1wU2TR0wkrregkR6dvt6Hfv4FkpJYQbra/view)
 
 ---
 
 <p align="center">
-  <i>"Continuous improvement (Kaizen) in detection engineering — one correlation rule at a time."</i>
+  <i>"Continuous improvement in detection engineering — one correlation rule at a time."</i>
 </p>
-
-#### Cybersecurity
